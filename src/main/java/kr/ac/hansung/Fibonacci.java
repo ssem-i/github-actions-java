@@ -17,7 +17,7 @@ public class Fibonacci {
             //System.out.print(fibonacci(i) + " ");
             int fib=fibonacci(i);
             System.out.print("fibonacci(" + i + ")"+fib);
-            Systme.out.println();
+            System.out.println();
             System.out.println();
         }
     }
